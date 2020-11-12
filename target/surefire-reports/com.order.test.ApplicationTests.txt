@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.order.test.ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 9, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.623 sec - in com.order.test.ApplicationTests
